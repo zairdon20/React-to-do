@@ -2,7 +2,7 @@
 
 This repo holds all the code for a React todos application. You can follow the step by step [guide to building the awesome project here](https://ibaslogic.com/react-tutorial-for-beginners/).
 
-## [Click to See the Todos App](https://ibaslogic.github.io/react-todo-project/)
+## [Click to See the Todos App](https://zairdon20.github.io/react-todo-project/)
 
 The code is available in the `src` folder. In there, you’ll see two folders named `classBased` and `functionBased` holding the class component and function component code respectively.
 
@@ -31,5 +31,20 @@ Finally, start your development server by running:
 ```
 npm start
 ```
+👤 **Josphat Nkonde**
 
-You should see the app in your browser address bar at [http://localhost:3000](http://localhost:3000)
+- GitHub: [@zairdon20](https://github.com/zairdon20)
+- Twitter: [@Josphat1](https://twitter.com/Josphat1)
+- LinkedIn: [@Josphat Nkonde](https://www.linkedin.com/in/josphat-nkonde-092510183/)
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+Thanks to everyone who helped me.
+
+## License
+This project is [MIT](./MIT.md) licensed.
+
