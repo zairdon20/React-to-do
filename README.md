@@ -8,8 +8,6 @@ The code is available in the `src` folder. In there, you’ll see two folders na
 
 ### Clone the project
 
-You can download or clone this project by running this command from your terminal:
-
 ```
 git clone https://github.com/Ibaslogic/react-todo-app
 ```
